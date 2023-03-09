@@ -1,10 +1,9 @@
 # Docker TP2
-Une petite description du projet
 
 ## Question 2
 
-### Une option de npm vous permet de n’installer que ce qui est nécessaire.
-Quelle est cette option ? 
+### Une option de npm vous permet de n’installer que ce qui est nécessaire. Quelle est cette option ? 
+
 
 L'option de npm qui permet de n'installer que ce qui est nécessaire est "--production"
 
@@ -31,8 +30,7 @@ Résultat :
 
 ## Question 4 
 
-### Compléter le fichier docker-compose.yml afin d’éxécuter ma_super_app avec sa
-base de donnée
+### Compléter le fichier docker-compose.yml afin d’éxécuter ma_super_app avec sa base de donnée
 
 ![](tp2_img2.png)
 
